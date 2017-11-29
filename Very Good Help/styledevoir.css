@@ -1,0 +1,262 @@
+
+.banner {
+  background: linear-gradient(135deg, rgba(56, 57, 59, 0.2) 0%, rgba(84, 82, 16, 0.4) 100%), 
+ url(images/banniere.png);
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+  padding: 150px 150px;
+  color: white;
+  font-family: sans-serif;
+  margin-top: 20px;
+}
+
+#searchbar{
+  text-align: left;
+  width:800px; 
+  height:auto;
+  display:inline-block;
+}
+
+.recherche {
+  display:inline-block;
+}
+
+.recherche .champ {
+  width:400px; 
+  height:30px;
+  display:inline-block;
+
+}
+.recherche .bouton { 
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  padding: 0; 
+  display:inline-block;
+}
+
+.navbar-brand img {
+  height: 50px;
+}
+
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 22px;
+}
+
+
+.navbar-item {
+  cursor: pointer;
+  padding: 0 20px;
+}
+
+
+.navbar-link {
+  color: #616668;
+  font-size: 14px;
+}
+.navbar-link:hover {
+  color: #da552f;
+  text-decoration: none;
+}
+
+.button {
+  text-align: left;
+}
+
+.dropdown-menu {
+  box-shadow: 1px 1px 4px #E6E6E6;
+  border-color: #E6E6E6;
+  margin-top : 22px;
+  text-align: left;
+}
+}
+.dropdown-menu li > a {
+  transition: color 0.3s ease;
+  font-weight: lighter !important;
+  color: #999999 !important;
+  font-size: 15px !important;
+  line-height: 22px !important;
+  padding: 10px 20px;
+}
+.dropdown-menu li > a:hover {
+  background: transparent !important;
+  color: black !important;
+}
+
+
+
+
+
+p {
+  text-align: top;
+  margin: 0;
+  color: black;
+  text-shadow: white 0.5px 0.5px;
+}
+
+
+}
+
+span {
+  text-shadow: white 0.5px 0.5px;
+}
+
+.card1 {
+  margin: 20px 0;
+  background: white;
+
+  height: 200px;
+  position: relative;
+  background: url(images/anglais.jpg);
+  background-size: cover;
+  color: white;
+  border-radius: 5px;
+
+}
+
+
+.card2 {
+  margin: 20px 0;
+  background: white;
+
+  height: 200px;
+  position: relative;
+  background: url(images/menuiserie.jpeg);
+  background-size: cover;
+  color: white;
+  border-radius: 5px;
+}
+
+.card3 {
+  margin: 20px 0;
+  background: white;
+
+  height: 200px;
+  position: relative;
+  background: url(images/bebe.jpeg);
+  background-size: cover;
+  color: white;
+  border-radius: 5px;
+}
+
+ .card4 {
+  margin: 20px 0;
+  background: white;
+
+  height: 200px;
+  position: relative;
+  background: url(images/ordi.jpeg);
+  background-size: cover;
+  color: white;
+  border-radius: 5px;
+}
+
+.card5 {
+  margin: 20px 0;
+  background: white;
+
+  height: 200px;
+  position: relative;
+  background: url(images/plante.jpeg);
+  background-size: cover;
+  color: white;
+  border-radius: 5px;
+}
+
+.card6 {
+  margin: 20px 0;
+  background: white;
+  height: 200px;
+  position: relative;
+  background: url(images/repassage.jpeg);
+  background-size: cover;
+  color: white;
+  border-radius: 5px;
+}
+
+
+.card-avatar {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+
+.card-author {
+  position: absolute;
+  color: white;
+  right: 10px;
+  bottom: 10px;
+  font-size: 15px;
+  text-shadow: black 0.5px 0.5px;
+}
+
+.card-title {
+  position: absolute;
+  color: black;
+  bottom: 10px;
+  left: 10px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+
+
+
+h1  {
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: black 1px 1px;
+
+}
+
+h2  {
+  font-family: sans-serif;
+  text-align: center;
+  color: grey;
+  letter-spacing: 1.5px;
+}
+
+h3  {
+  font-family: sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+h4 {
+  margin: 0;
+  color: black;
+  font-size: 25px;
+  text-shadow: white 0.5px 0.5px;
+}
+
+.formulaire {
+  margin-top: 40px;
+  text-align: cent;
+}
+
+.testeurs{
+  text-align: center;
+}
+
+
+
+.avatar-lg {
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-right: 50px;
+  ;
+
+
+
